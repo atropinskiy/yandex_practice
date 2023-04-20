@@ -1,8 +1,5 @@
-import docx
-import os
-
-
-doc = docx.Document("F:/MyGit/yandex_practice/datasets/sample.docx")
-
-
-print(len(doc.paragraphs))
+def facts(n):
+    if n == 0:
+        return 1
+    else: return n * fact (n - 1)
+k = facts(3)
