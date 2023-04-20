@@ -15,8 +15,8 @@
     - уровень дохода
     - цель кредита
 
-### Используемые библиотеки
-Pandas
-PyMystem3
-Matplotlib
-Seaborn
+### Используемые библиотеки  
+Pandas  
+PyMystem3  
+Matplotlib  
+Seaborn  
