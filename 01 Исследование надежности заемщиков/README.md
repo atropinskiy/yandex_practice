@@ -16,7 +16,7 @@
     - цель кредита
 
 ### Используемые библиотеки  
-Pandas  
-PyMystem3  
-Matplotlib  
-Seaborn  
+- Pandas  
+- PyMystem3  
+- Matplotlib  
+- Seaborn  
